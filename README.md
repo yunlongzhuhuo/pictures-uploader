@@ -1,0 +1,2 @@
+# pictures-uploader
+可以将文件夹中所有的图片都自动上传到ImgURL图床，然后生成一个文本文件，里面有Markdown和BBcode两种格式的链接。
